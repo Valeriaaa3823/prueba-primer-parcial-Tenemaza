@@ -1,6 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-# PRY_AUTENTICACION_MICROSERVICIO
-Nombre Alanis Tenemaza
+## PRY_AUTENTICACION_MICROSERVICIO PRUEBA FINAL 
+
+## Nombre Alanis Tenemaza
 
 Este proyecto es un **microservicio de autenticación** desarrollado en **Laravel 12**. Está preparado para gestionar usuarios, sesiones y autenticación usando Laravel Sanctum y se conecta a una base de datos MySQL.
 
